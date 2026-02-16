@@ -10,16 +10,16 @@
 
 ## Question 3
 
-### Answer:
+### Answer: `12,184`
 
 ## Question 4
 
-### Answer:
+### Answer: `East Harlem North`
 
 ## Question 5
 
-### Answer:
+### Answer: `384,624`
 
 ## Question 6
 
-### Answer:
+### Answer: `22,998,722`
