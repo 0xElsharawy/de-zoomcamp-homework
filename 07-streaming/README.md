@@ -2,24 +2,24 @@
 
 ## Question 1
 
-### Answer:
+### Answer: `v25.3.9`
 
 ## Question 2
 
-### Answer:
+### Answer: `10 seconds`
 
 ## Question 3
 
-### Answer:
+### Answer: `8506`
 
 ## Question 4
 
-### Answer:
+### Answer: `74`
 
 ## Question 5
 
-### Answer:
+### Answer: `81`
 
 ## Question 6
 
-### Answer:
+### Answer: `2025-10-16 18:00:00`
